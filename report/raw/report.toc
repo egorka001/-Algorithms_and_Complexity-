@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Основные определения и краткое описание алгоритма.}{2}{}%
+\contentsline {section}{Математический анализ алгоритма.}{4}{}%
+\contentsline {section}{Описание генератора входных данных.}{5}{}%
+\contentsline {section}{Описание реализации алгоритма.}{6}{}%
+\contentsline {section}{Полученные результаты.}{7}{}%
+\contentsline {section}{Анализ результатов.}{8}{}%
+\contentsline {section}{Список литературы.}{9}{}%
+\contentsline {section}{Оборудование.}{10}{}%
